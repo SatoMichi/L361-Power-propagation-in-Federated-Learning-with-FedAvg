@@ -20,7 +20,7 @@ The brief idea is that the model will not trained on central server. Instead the
 4. Server distribute obtained new model *M** to each device.
 5. Repeat process 2-4.
 
-![1_WgNu6ZtQ-3vXRtMdvLYzpw](https://github.com/SatoMichi/L361-Power-propagation-in-Federated-Learning-with-FedAvg/assets/44910734/3c995f3b-570a-4849-9e94-9816995f957c)
+![1_WgNu6ZtQ-3vXRtMdvLYzpw](https://github.com/SatoMichi/L361-Power-propagation-in-Federated-Learning-with-FedAvg/assets/44910734/3c995f3b-570a-4849-9e94-9816995f957c)  
 Image from https://ankitasinha0811.medium.com/beginners-guide-to-federated-learning-d529557a1b1e
 
 Different from traditional model training process which require the all data to be collected to central server, FL will allow each device to keep thier data in thier storage and do not need to be sent to server. This will have positive effect on protecting privacy information. 
